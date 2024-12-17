@@ -31,7 +31,7 @@ Analyzes LaserScan data to detect straight paths by calculating the variance of 
 
 ### Results
 
-The following are the results tested usingthe [F1 Tenth Evaluation](https://github.com/NTU-Autonomous-Racing-Team/F1Tenth_Hackathon_Evaluation/tree/main) repo
+The following are the results tested using the [F1 Tenth Evaluation](https://github.com/NTU-Autonomous-Racing-Team/F1Tenth_Hackathon_Evaluation/tree/main) repo
 
-- 11 consecutive laps (no collisons)
+- 11 consecutive laps (no collisions)
 - fastest lap of 51.9 seconds
