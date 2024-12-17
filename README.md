@@ -1,9 +1,6 @@
 # F1Tenth_Hackathon_Submission_Team_3
 
-<video width="600" controls>
-  <source src="rviz.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![](https://github.com/harish950/F1Tenth_Hackathon_Submission_Team_3/blob/main/rviz.gif)
 
 ### Background
 Our solution uses a wall following algorithm to navigate around a closed loop track. The goal was to maintain a consistent and safe distance from the wall while ensuring smooth cornering and optimal speeds. 
